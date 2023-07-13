@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 This is my personal webpage. Nice to meet you!
-<!--
+
 ✨ About me ✨ 
 
 - 🔭 I'm currently working on a colorectal cancer prediction model
@@ -12,4 +12,3 @@ This is my personal webpage. Nice to meet you!
 - 📫 How to reach me: after this web becomes better, I'll share it here. 
 - 😄 Pronouns: Him
 - ⚡ Fun fact: recently love a silly sitcom
--->
