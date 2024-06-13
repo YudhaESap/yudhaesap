@@ -1,17 +1,14 @@
 ### Hi there 👋
 
 This is my personal webpage. Nice to meet you!
-<!--
-**YudhaESap/yudhaesap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+✨ About me ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on a colorectal cancer prediction model
+- 🌱 I’m currently learning in a Ph.D. program
+- 👯 I’m looking to collaborate with anyone interested in the intersection between information technology, policy, and business; LLMs; and Web3 
+- 🤔 I’m looking for help with this page. Kinda funny but it's the truth.
+- 💬 Ask me how many times I drink a bottle of milk coffee daily.
+- 📫 How to reach me: after this web becomes better, I'll share it here. 
+- 😄 Pronouns: Him
+- ⚡ Fun fact: recently love a silly sitcom
