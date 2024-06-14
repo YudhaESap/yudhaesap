@@ -1,0 +1,5 @@
+git submodule deinit -f -- yudhaesap.github.io
+rm -rf .git/modules/yudhaesap.github.io
+rm -rf yudhaesap.github.io
+git rm -f yudhaesap.github.io
+
