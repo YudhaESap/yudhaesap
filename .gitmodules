@@ -1,8 +1,0 @@
-[submodule "submodule_name"]
-    path = path_to_submodule_directory
-    url = https://github.com/username/repository_name.git
-git submodule deinit -f -- yudhaesap.github.io
-rm -rf .git/modules/yudhaesap.github.io
-rm -rf yudhaesap.github.io
-git rm -f yudhaesap.github.io
-
