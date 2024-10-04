@@ -34,6 +34,11 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     color: #ffffff; /* White links */
+    transition: color 0.3s; /* Smooth color change on hover */
+}
+
+nav ul li a:hover {
+    color: #f1c40f; /* Yellow on hover */
 }
 
 main {
@@ -42,6 +47,9 @@ main {
 
 section {
     margin-bottom: 30px;
+    background-color: #1e1e1e; /* Dark section background */
+    padding: 15px; /* Add padding for better spacing */
+    border-radius: 8px; /* Rounded corners */
 }
 
 section h2 {
